@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-11T14:44:28 IST" name="Default suite" finished-at="2024-09-11T14:49:59 IST" duration-ms="330978">
+    <groups>
+    </groups>
+    <test started-at="2024-09-11T14:44:28 IST" name="Default test" finished-at="2024-09-11T14:49:59 IST" duration-ms="330978">
+      <class name="TestNG.AutoITProgram">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestNG.AutoITProgram@3e27ba32]" started-at="2024-09-11T14:44:28 IST" name="setup" finished-at="2024-09-11T14:49:13 IST" duration-ms="285250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="urlload()[pri:0, instance:TestNG.AutoITProgram@3e27ba32]" started-at="2024-09-11T14:49:13 IST" name="urlload" finished-at="2024-09-11T14:49:45 IST" duration-ms="31759" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlload -->
+        <test-method signature="test1()[pri:0, instance:TestNG.AutoITProgram@3e27ba32]" started-at="2024-09-11T14:49:45 IST" name="test1" finished-at="2024-09-11T14:49:59 IST" duration-ms="13866" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- TestNG.AutoITProgram -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
